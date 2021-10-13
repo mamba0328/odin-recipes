@@ -1,0 +1,34 @@
+.header {
+    position: relative;
+    text-align: center;
+    top: 40px;
+    font-size: 40px;
+    background-color: black;
+    color: white;
+
+
+  
+}
+
+.dishes {
+    position: relative;
+    text-align:center;
+    top:150px;
+    font-size: 25px;
+
+}
+
+.image { 
+    height:auto;
+    width:400px;
+    position: relative;
+    top: 40px;
+    left: 40%;
+    right: 60%;
+   
+}
+
+.dscrpt {
+    position: relative;
+    top: 40px;
+}
